@@ -1,0 +1,11 @@
+
+t	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ò…’Æøÿÿÿÿ
+t	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(êÓŸ“ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ´¥¸ıÿÿÿÿ
+C
+java:S1860"&Synchronize on a new "Object" instead.(¢È’ç8İªèÜÍ/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(ñ•ôşÿÿÿÿ8¶ÈíÜÍ/
+H
+java:S1860"&Synchronize on a new "Object" instead.( ªŒæÿÿÿÿÿ8İªèÜÍ/

@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¤şÿÿÿÿ
+s
+java:S1104"XMake N_ITERATIONS a static final constant or non-public and provide accessors if needed.(±ÿˆ¡ùÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+M
+java:S1444"2Make this "public static N_ITERATIONS" field final(±ÿˆ¡ùÿÿÿÿ
+r
+java:S3008"WRename this field "N_ITERATIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÿˆ¡ùÿÿÿÿ

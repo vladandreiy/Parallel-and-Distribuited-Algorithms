@@ -1,0 +1,8 @@
+
+F
+java:S1444"+Make this "public static value" field final(Ì»á±ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷â¬Àûÿÿÿÿ
+l
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(Ì»á±ÿÿÿÿÿ
+}
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(œý¾Ðÿÿÿÿÿ8Õ¬öœÒ/

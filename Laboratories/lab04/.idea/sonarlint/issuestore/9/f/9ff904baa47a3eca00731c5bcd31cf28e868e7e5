@@ -1,0 +1,10 @@
+
+R
+java:S1444"7Make this "public static NUMBER_OF_THREADS" field final(“Íùüúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸áÇš
+x
+java:S1104"]Make NUMBER_OF_THREADS a static final constant or non-public and provide accessors if needed.(“Íùüúÿÿÿÿ
+w
+java:S3008"\Rename this field "NUMBER_OF_THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Íùüúÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

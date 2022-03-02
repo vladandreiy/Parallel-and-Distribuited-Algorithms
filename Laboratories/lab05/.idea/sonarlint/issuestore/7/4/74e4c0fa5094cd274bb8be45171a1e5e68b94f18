@@ -1,0 +1,30 @@
+
+O
+java:S1444"4Make this "public static currentReaders" field final(ÿè‚øÿÿÿÿ
+O
+java:S1444"4Make this "public static currentWriters" field final(œØŠáøÿÿÿÿ
+J
+java:S1444"4Make this "public static waitingReaders" field final(‹›Ëô
+O
+java:S1444"4Make this "public static waitingWriters" field final(ªç†ªÿÿÿÿÿ
+H
+java:S1444"-Make this "public static barrier" field final(á·ì¹ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ñùıÿÿÿÿ
+u
+java:S1104"ZMake currentReaders a static final constant or non-public and provide accessors if needed.(ÿè‚øÿÿÿÿ
+u
+java:S1104"ZMake currentWriters a static final constant or non-public and provide accessors if needed.(œØŠáøÿÿÿÿ
+p
+java:S1104"ZMake waitingReaders a static final constant or non-public and provide accessors if needed.(‹›Ëô
+u
+java:S1104"ZMake waitingWriters a static final constant or non-public and provide accessors if needed.(ªç†ªÿÿÿÿÿ
+n
+java:S1104"SMake barrier a static final constant or non-public and provide accessors if needed.(á·ì¹ÿÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'java.util.concurrent.Semaphore'.(î¸Îú
+8
+java:S2386"Make this member "protected".(²Éìøÿÿÿÿ
+3
+java:S2386"Make this member "protected".(¾½˜ñ
+M
+java:S1135"2Complete the task associated to this TODO comment.(í†‹ÿúÿÿÿÿ

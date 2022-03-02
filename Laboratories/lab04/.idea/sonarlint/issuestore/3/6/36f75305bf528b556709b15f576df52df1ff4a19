@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡—ëÒûÿÿÿÿ
+S
+java:S2696="6Make the enclosing method "static" or remove this set.(´À´8 ˜ÔİÍ/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¨ÖİÍ/
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…›£¨ùÿÿÿÿ8¨ŒÎİÍ/
+i
+java:S3008"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛËò‚8¨ŒÎİÍ/
+]	java:S125"<This block of commented-out lines of code should be removed.(¡Ú±¹øÿÿÿÿ8ÿÕİÍ/
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã½şíûÿÿÿÿ8´’ÊİÍ/

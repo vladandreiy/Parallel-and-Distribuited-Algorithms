@@ -1,0 +1,10 @@
+
+Z
+java:S1128"?Remove this unused import 'java.util.concurrent.CyclicBarrier'.(œè—ùÿÿÿÿ
+[
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(±û™Ä
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÃ¤¦
+c
+java:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‹öàÒ/
+f
+java:S2147*"DCombine this catch with the one at line 40, which has the same body.(†«”Ïüÿÿÿÿ8‹öàÒ/

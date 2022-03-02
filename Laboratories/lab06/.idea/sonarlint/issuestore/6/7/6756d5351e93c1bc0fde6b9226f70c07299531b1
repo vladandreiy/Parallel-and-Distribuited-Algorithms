@@ -1,0 +1,6 @@
+
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÃ¤¦
+m
+java:S3008"WRename this field "N_ITERATIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÏÙ¶

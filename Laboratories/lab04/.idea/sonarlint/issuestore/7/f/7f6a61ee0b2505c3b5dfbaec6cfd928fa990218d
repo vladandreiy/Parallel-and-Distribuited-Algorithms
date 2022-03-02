@@ -1,0 +1,10 @@
+
+i
+java:S3008"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŠÆ‡8¼ì±ÝÍ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñšë‰þÿÿÿÿ
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¾öºÝÍ/
+X
+java:S26967"6Make the enclosing method "static" or remove this set.(¼Êý¯ùÿÿÿÿ8ÉØ¶ÝÍ/
+i
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõŠ¡8šõ¬ÝÍ/

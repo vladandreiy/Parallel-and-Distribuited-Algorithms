@@ -1,0 +1,10 @@
+
+X
+java:S1128	";Remove this unused import 'java.util.concurrent.Semaphore'.(î¸Îú8¯Ì¢Ò/
+[
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(±†µŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êØÆÿÿÿÿÿ
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ä··Ò/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ä··Ò/

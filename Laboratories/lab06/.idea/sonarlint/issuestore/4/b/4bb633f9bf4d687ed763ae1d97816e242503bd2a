@@ -1,0 +1,11 @@
+
+C
+java:S1444"-Make this "public static hashMap" field final(ø³Åò
+š
+java:S1319"ƒThe type of the "hashMap" object should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ø³Åò
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïØÚŞ
+i
+java:S1104"SMake hashMap a static final constant or non-public and provide accessors if needed.(ø³Åò
+3
+java:S2386"Make this member "protected".(ø³Åò
+X	java:S125"<This block of commented-out lines of code should be removed.(‘šÆ©8Ğâ˜Ò/
